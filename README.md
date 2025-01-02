@@ -8,4 +8,4 @@
 ✉️ &nbsp;You can shoot me an email at israelbejarii@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I also speak english and spanish fluently (i'm still working on portuguese!).
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)

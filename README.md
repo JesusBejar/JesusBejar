@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Agile and Scrum methodologies as well as software testing practices.\
 📖 &nbsp;In my free time, I read the Book of Mormon, the Bible and I also exercise (running, weights, bball).\
 ✉️ &nbsp;You can shoot me an email at israelbejarii@gmail.com! I'll try to respond as soon as I can.\
-🚀 &nbsp;Here is my [LinkedIn](https://www.linkedin.com/in/jesusisraelbejar/) profile\
+🚀 &nbsp;Here is my [LinkedIn profile](https://www.linkedin.com/in/jesusisraelbejar/)!
 
 Feel free to explore my repositories and don't hesitate to reach out! 
 
